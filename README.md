@@ -14,7 +14,7 @@ This project is a high-fidelity frontend implementation of the **Omah** real est
 - **CSS3:** Focused on Grid, Flexbox, Positioning, and Media Queries.
 
 ### 🔗 Live Demo:
-View the project here: [আপনার লাইভ লিঙ্কটি এখানে দিন]
+View the project here: (https://shrufaiya99.github.io/Omah/)
 
 ---
 *Developed to master complex CSS layouts as a Frontend Development student.*
